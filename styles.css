@@ -1,0 +1,29 @@
+.click-me {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: 0;
+    margin-left: 150px;
+}
+
+.pop-rapper {
+    width: 400px;
+    height: 400px;
+    background-color:lightgray;
+    justify-content: center;
+}
+
+.pop-close {
+    position: relative;
+    left: 90%;
+    top: 5px;
+}
+
+.pop-open {
+    display: none;
+    width: 150px;
+    background-color: white;
+    margin: 20px auto;
+    padding: 10px;
+    justify-content: center;
+}
